@@ -1,7 +1,7 @@
 ## OLA RIDE ANAYSIS PROJECT
 
 #Dataset I used
-<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/olatopvarsityy.csv"></a>
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/olatopvarsityy.csv">Dataset</a>
 ## Dashboard link of this Project
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png">Click Dashboard</a>
 
@@ -49,8 +49,6 @@ As part of my Data Analyst learning journey, I developed an interactive Power BI
 
 **Power BI** | **Data Visualization** | **KPI Analysis** | **Business Intelligence** | **Dashboard Development** | **Data Analysis**
 
-<br>
 
-## Hashtags
 
-#DataAnalytics #DataAnalyst #PowerBI #BusinessIntelligence #DataVisualization #DataAnalysis #PowerBIDashboard #BusinessAnalytics #DataDriven #LearningJourney
+
