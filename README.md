@@ -2,8 +2,6 @@
 
 #Dataset I used click:-  
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/olatopvarsityy.csv">Dataset</a>
-## Dashboard link of this Project
-<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/tree/main/Ola%20ride-analytics-dashboard">All Dashboard</a>
 ## 📊 Dashboard Preview
 
 <p align="center">
@@ -11,7 +9,6 @@
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png">
 <img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png" width="18%" alt="Dashboard 1">
 </a>
-<br>
 
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png">
 <img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png" width="18%" alt="Dashboard 2">
@@ -20,7 +17,6 @@
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png">
 <img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png" width="18%" alt="Dashboard 3">
 </a>
-<br>
 
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png">
 <img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png" width="18%" alt="Dashboard 4">
