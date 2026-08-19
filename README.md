@@ -1,60 +1,48 @@
-## OLA RIDE ANAYSIS PROJECT
+# 🚖 OLA Ride Analysis Project
 
-#Dataset I used click:-  
-<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/olatopvarsityy.csv">Dataset</a>
+An interactive Power BI dashboard analyzing OLA ride-booking data — covering bookings, revenue, vehicle types, cancellations, payment methods, ratings, and ride trends. Built to turn raw ride data into actionable business insights for operational and revenue decisions.
+
+**Dataset:** [olatopvarsityy.csv](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/olatopvarsityy.csv)
+
+---
+
 ## 📊 Dashboard Preview
 
-<p align="center">
+**Overview — Bookings, Revenue & Success Rate**
+[![Dashboard 1](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png)
 
-<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png">
-<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png" width="18%" alt="Dashboard 1">
-</a>
+**Vehicle Type Performance**
+[![Dashboard 2](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png)
 
-<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png">
-<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png" width="18%" alt="Dashboard 2">
-</a>
+**Cancellation Analysis**
+[![Dashboard 3](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png)
 
-<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png">
-<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png" width="18%" alt="Dashboard 3">
-</a>
-<br>
+**Payment Method & Booking Hour Trends**
+[![Dashboard 4](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png)
 
-<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png">
-<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png" width="18%" alt="Dashboard 4">
-</a>
+**Customer & Driver Ratings**
+[![Dashboard 5](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png)
 
-<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png">
-<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png" width="18%" alt="Dashboard 5">
-</a>
-<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png">
-<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png" width="18%" alt="Dashboard 5">
-</a>
+**Ride Trends Over Time**
+[![Dashboard 6](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png)
 
-</p>
-
-
-
-
-
-
+---
 
 ## 1. Project Overview
 
-As part of my Data Analyst learning journey, I developed an interactive Power BI dashboard to analyze OLA ride-booking data, covering bookings, revenue, vehicle types, cancellations, payment methods, ratings, and ride trends. Transformed raw data into actionable business insights to support operational and revenue decision-making.
-
-<br>
+As part of my Data Analyst learning journey, I built an interactive Power BI dashboard to analyze OLA ride-booking data — covering bookings, revenue, vehicle types, cancellations, payment methods, ratings, and ride trends. The goal: transform raw data into insights that support operational and revenue decisions.
 
 ## 2. Key KPI Summary
 
-- **Total Bookings:** 100K
-- **Total Booking Value:** ₹40.51M
-- **Successful Booking Revenue:** ₹27.56M
-- **Cancellation Rate:** 32.12%
-- **Successful Booking Rate:** 67.88%
-- **Avg. Customer Rating:** 4.25/5
-- **Avg. Driver Rating:** 4.00/5
-
-<br>
+| Metric | Value |
+|---|---|
+| Total Bookings | 100K |
+| Total Booking Value | ₹40.51M |
+| Successful Booking Revenue | ₹27.56M |
+| Cancellation Rate | 32.12% |
+| Successful Booking Rate | 67.88% |
+| Avg. Customer Rating | 4.25 / 5 |
+| Avg. Driver Rating | 4.00 / 5 |
 
 ## 3. Business Questions Solved
 
@@ -65,8 +53,6 @@ As part of my Data Analyst learning journey, I developed an interactive Power BI
 - Which payment methods and booking hours show better performance?
 - How do customer and driver ratings vary across vehicle types?
 
-<br>
-
 ## 4. Key Insights
 
 - **67.88%** of bookings were successful, while **32.12%** were cancelled.
@@ -76,12 +62,11 @@ As part of my Data Analyst learning journey, I developed an interactive Power BI
 - Vehicle performance was relatively consistent, with booking values around **₹5.7–5.9M** across categories.
 - Major cancellation reasons included **change of plans, driver-related issues, long wait times, and traffic/weather conditions**.
 
-<br>
+## 5. Tools & Skills
 
-## Tools & Skills
+**Power BI** · **Data Visualization** · **DAX** · **KPI Analysis** · **Business Intelligence** · **Dashboard Development** · **Data Analysis**
 
-**Power BI** | **Data Visualization** | **KPI Analysis** | **Business Intelligence** | **Dashboard Development** | **Data Analysis**
+## 6. Connect
 
-
-
-
+**Gaurav Singh**
+[LinkedIn](https://linkedin.com/in/gauravsingh0106) · [GitHub](https://github.com/gauravSingh0106)
