@@ -4,6 +4,31 @@
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/olatopvarsityy.csv">Dataset</a>
 ## Dashboard link of this Project
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/tree/main/Ola%20ride-analytics-dashboard">All Dashboard</a>
+## 📊 Dashboard Preview
+
+<p align="center">
+
+<a href="LINK-OF-DASHBOARD-1">
+<img src="LINK-OF-DASHBOARD-1" width="18%" alt="Dashboard 1">
+</a>
+
+<a href="LINK-OF-DASHBOARD-2">
+<img src="LINK-OF-DASHBOARD-2" width="18%" alt="Dashboard 2">
+</a>
+
+<a href="LINK-OF-DASHBOARD-3">
+<img src="LINK-OF-DASHBOARD-3" width="18%" alt="Dashboard 3">
+</a>
+
+<a href="LINK-OF-DASHBOARD-4">
+<img src="LINK-OF-DASHBOARD-4" width="18%" alt="Dashboard 4">
+</a>
+
+<a href="LINK-OF-DASHBOARD-5">
+<img src="LINK-OF-DASHBOARD-5" width="18%" alt="Dashboard 5">
+</a>
+
+</p>
 <image width="1052" height="589" alt="PBIDesktop_0nMCGeIfUN" src="https://github.com/user-attachments/assets/ec5c1954-63c8-49ac-859e-4c608f651b80" />
 
 
