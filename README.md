@@ -5,7 +5,6 @@
 ## Dashboard link of this Project
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/tree/main/Ola%20ride-analytics-dashboard">All Dashboard</a>
 ## 📊 Dashboard Preview
-## 📊 Dashboard Preview
 
 <p align="center">
   <img src="<img width="1052" height="589" alt="PBIDesktop_0nMCGeIfUN" src="https://github.com/user-attachments/assets/328a018a-a3a1-4adb-b79d-735722bc2b77" />
