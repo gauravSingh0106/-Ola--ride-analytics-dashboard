@@ -14,23 +14,35 @@ An interactive Power BI dashboard analyzing OLA ride-booking data — covering b
 </a>
 
 
-**Vehicle Type Performance**
+**Vehicle Type Performance** <br>
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png">
 <img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png" width="18%" alt="Dashboard 2">
 </a>
 
 
-**Cancellation Analysis**
-[![Dashboard 3](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png)
+**Cancellation Analysis** <br>
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png">
+<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png" width="18%" alt="Dashboard 3">
+</a>
 
-**Payment Method & Booking Hour Trends**
-[![Dashboard 4](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png)
 
-**Customer & Driver Ratings**
-[![Dashboard 5](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png)
+**Payment Method & Booking Hour Trends**<br>
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png">
+<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png" width="18%" alt="Dashboard 4">
+</a>
 
-**Ride Trends Over Time**
-[![Dashboard 6](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png)
+
+**Customer & Driver Ratings** <br>
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png">
+<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png" width="18%" alt="Dashboard 5">
+</a>
+
+
+**Ride Trends Over Time**<br>
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png">
+<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png" width="18%" alt="Dashboard 5">
+</a>
+
 
 ---
 
