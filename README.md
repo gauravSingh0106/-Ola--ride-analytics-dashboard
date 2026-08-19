@@ -29,8 +29,8 @@
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png">
 <img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png" width="18%" alt="Dashboard 5">
 </a>
-<a href="[LINK-OF-DASHBOARD-5](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png)">
-<img src="[LINK-OF-DASHBOARD-5](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png)" width="18%" alt="Dashboard 5">
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png">
+<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png" width="18%" alt="Dashboard 5">
 </a>
 
 </p>
