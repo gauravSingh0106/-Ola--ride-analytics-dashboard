@@ -9,7 +9,10 @@ An interactive Power BI dashboard analyzing OLA ride-booking data — covering b
 ## 📊 Dashboard Preview
 
 **Overview — Bookings, Revenue & Success Rate**
-[![Dashboard 1](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png)
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png">
+<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png" width="18%" alt="Dashboard 1">
+</a>
+
 
 **Vehicle Type Performance**
 [![Dashboard 2](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png)
@@ -69,4 +72,4 @@ As part of my Data Analyst learning journey, I built an interactive Power BI das
 ## 6. Connect
 
 **Gaurav Singh**
-[LinkedIn](https://linkedin.com/in/gauravsingh0106) · [GitHub](https://github.com/gauravSingh0106)
+[LinkedIn](https://linkedin.com/in/gauravsingh0106) · 
