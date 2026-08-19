@@ -8,14 +8,17 @@ An interactive Power BI dashboard analyzing OLA ride-booking data — covering b
 
 ## 📊 Dashboard Preview
 
-**Overview — Bookings, Revenue & Success Rate**
+**Overview — Bookings, Revenue & Success Rate** <br>
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png">
 <img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png" width="18%" alt="Dashboard 1">
 </a>
 
 
 **Vehicle Type Performance**
-[![Dashboard 2](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png)
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png">
+<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png" width="18%" alt="Dashboard 2">
+</a>
+
 
 **Cancellation Analysis**
 [![Dashboard 3](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/raw/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png)](https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png)
