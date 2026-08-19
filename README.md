@@ -3,9 +3,8 @@
 #Dataset I used click:-  
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/olatopvarsityy.csv">Dataset</a>
 ## Dashboard link of this Project
-<img width="1052" height="589" alt="PBIDesktop_0nMCGeIfUN" src="https://github.com/user-attachments/assets/5c647a09-8083-493e-9fc9-3e4842346b91" />
-
 <a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/tree/main/Ola%20ride-analytics-dashboard">All Dashboard</a>
+<img width="1052" height="589" alt="PBIDesktop_0nMCGeIfUN" src="https://github.com/user-attachments/assets/5c647a09-8083-493e-9fc9-3e4842346b91" />
 
 ## 1. Project Overview
 
