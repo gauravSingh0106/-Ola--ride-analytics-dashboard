@@ -8,8 +8,8 @@
 
 <p align="center">
 
-<a href="LINK-OF-DASHBOARD-1">
-<img src="LINK-OF-DASHBOARD-1" width="18%" alt="Dashboard 1">
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png">
+<img src=" https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png" width="18%" alt="Dashboard 1">
 </a>
 
 <a href="LINK-OF-DASHBOARD-2">
