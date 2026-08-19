@@ -12,20 +12,24 @@
 <img src=" https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_0nMCGeIfUN.png" width="18%" alt="Dashboard 1">
 </a>
 
-<a href="LINK-OF-DASHBOARD-2">
-<img src="LINK-OF-DASHBOARD-2" width="18%" alt="Dashboard 2">
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png">
+<img src="  https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_9ZNO1vrfWB.png">
 </a>
 
-<a href="LINK-OF-DASHBOARD-3">
-<img src="LINK-OF-DASHBOARD-3" width="18%" alt="Dashboard 3">
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png">
+<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_NPmgNsDnCm.png" width="18%" alt="Dashboard 3">
 </a>
 
-<a href="LINK-OF-DASHBOARD-4">
-<img src="LINK-OF-DASHBOARD-4" width="18%" alt="Dashboard 4">
+<a href=" https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png">
+<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_Tr8eHeyoLP.png" width="18%" alt="Dashboard 4">
 </a>
 
-<a href="LINK-OF-DASHBOARD-5">
-<img src="LINK-OF-DASHBOARD-5" width="18%" alt="Dashboard 5">
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png">
+<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_UqVfDMJnWn.png" width="18%" alt="Dashboard 5">
+</a>
+
+<a href="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png">
+<img src="https://github.com/gauravSingh0106/-Ola--ride-analytics-dashboard/blob/main/Ola%20ride-analytics-dashboard/PBIDesktop_xBncTpdEny.png" width="18%" alt="Dashboard 5">
 </a>
 
 </p>
